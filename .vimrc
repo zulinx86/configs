@@ -40,3 +40,8 @@ set incsearch
 " Command line completion
 set wildmenu
 
+" Show ruler
+set ruler
+
+" enable clipboard
+set clipboard+=unnamed
