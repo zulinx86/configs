@@ -4,11 +4,11 @@ set number
 " Enable syntax highlight
 syntax enable
 
-" How many spaces are displayed as tab
-set tabstop=4
+" How many columns a tab character (\t) is worth
+set tabstop=8
 
-" How many spaces are inserted when indented
-set shiftwidth=4
+" How many columns a level of indentation is worth
+set shiftwidth=8
 
 " Use the same indent in new line as current line
 set autoindent
