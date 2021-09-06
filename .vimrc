@@ -45,3 +45,7 @@ set ruler
 
 " enable clipboard
 set clipboard+=unnamed
+
+" Hidden characters
+set listchars=tab:»\ ,eol:↲,nbsp:␣
+set list
