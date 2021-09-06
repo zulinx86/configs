@@ -51,7 +51,6 @@ set listchars=tab:»\ ,eol:↲
 set list
 
 " Highlight
-hi NonText ctermfg=DarkGrey
-hi SpecialText ctermfg=DarkGrey
-hi LineNr ctermfg=DarkGrey
-
+hi NonText ctermfg=235
+hi SpecialKey ctermfg=235
+hi LineNr ctermfg=235
