@@ -47,5 +47,11 @@ set ruler
 set clipboard+=unnamed
 
 " Hidden characters
-set listchars=tab:»\ ,eol:↲,nbsp:␣
+set listchars=tab:»\ ,eol:↲
 set list
+
+" Highlight
+hi NonText ctermfg=DarkGrey
+hi SpecialText ctermfg=DarkGrey
+hi LineNr ctermfg=DarkGrey
+
