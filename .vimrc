@@ -46,6 +46,9 @@ set ruler
 " Enable clipboard
 set clipboard+=unnamed
 
+" Encoding
+set encoding=utf-8
+
 " Hidden characters
 set listchars=tab:→\ ,eol:↲
 set list
@@ -54,9 +57,6 @@ set list
 hi NonText ctermfg=235
 hi SpecialKey ctermfg=235
 hi LineNr ctermfg=235
-
-" Encoding
-set encoding=utf-8
 
 " dein
 if &compatible
