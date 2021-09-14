@@ -55,6 +55,8 @@ hi NonText ctermfg=235
 hi SpecialKey ctermfg=235
 hi LineNr ctermfg=235
 
+" Encoding
+set encoding=utf-8
 
 " dein
 if &compatible
